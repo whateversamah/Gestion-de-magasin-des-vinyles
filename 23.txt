@@ -1,0 +1,8 @@
+
+Nom du Vinyle: nirvana-lithium
+ID du Vinyle : 23
+Prix de fabrication: 10
+Prix de vente: 12
+Quantite: 14
+Le cout total: 140
+Nombre de vente: 168

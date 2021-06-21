@@ -1,0 +1,8 @@
+
+Nom d'album: Adele
+ID du vinyle : 55
+Prix de production: 45
+Prix de vente: 56
+Quantite: 4
+Prix total: 180
+Vente: 224

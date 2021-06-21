@@ -1,0 +1,8 @@
+
+Nom du Vinyle: metalica
+ID du Vinyle : 852
+Prix de fabrication: 560
+Prix de vente: 1200
+Quantite: 5
+Le cout total: 2800
+Nombre de vente: 6000

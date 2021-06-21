@@ -1,0 +1,5 @@
+
+nombre d employee: 10
+salaire: 200
+nom  :imrane
+ID  d employee: : 3000

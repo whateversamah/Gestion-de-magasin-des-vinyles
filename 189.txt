@@ -1,0 +1,5 @@
+
+numbre d employees: 2
+salaire d employee: 6000
+nom d employee :amina
+ID d employee: 189

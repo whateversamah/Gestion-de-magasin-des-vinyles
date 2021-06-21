@@ -1,0 +1,8 @@
+
+Nom du Vinyle: mitski-geyser
+ID du Vinyle : 45
+Prix de fabrication: 4500
+Prix de vente: 8500
+Quantite: 12
+Le cout total: 5400
+Nombre de vente: 1020

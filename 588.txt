@@ -1,0 +1,5 @@
+
+nombre d employee: 2
+salaire: 6000
+nom d employee :mohammed
+ID d employee: 588

@@ -1,0 +1,5 @@
+
+nombre d employee : 2
+salaire : 7500
+nom d employee :samah
+ID d employee: 787

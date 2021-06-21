@@ -1,0 +1,8 @@
+
+Nom du Vinyle: black sabat
+ID du Vinyle : 22
+Prix de fabrication: 22
+Prix de vente: 33
+Quantite: 20
+Le cout total: 44
+Nombre de vente: 66

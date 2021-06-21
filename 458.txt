@@ -1,0 +1,8 @@
+
+Nom d'album: bob dylan-grace
+ID du vinyle : 12
+Prix de production: 12
+Prix de vente: 12
+Quantite: 33
+Prix total: 396
+Nombre de Vente: 396

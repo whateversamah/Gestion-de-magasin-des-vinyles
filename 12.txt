@@ -1,0 +1,8 @@
+
+Nom du Vinyle: LED ZEPLIN
+ID du Vinyle : 12
+Prix de fabrication: 1560
+Prix de vente: 2500
+Quantite: 2
+Le cout total: 3120
+Nombre de vente: 5000
